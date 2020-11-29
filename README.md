@@ -2,6 +2,11 @@
 
 Files:
 
-EDA of Google Play Store Apps.ipynb (Descriptive Stats, Univariate and Bivariate Analysis have been shown in the EDA)
-
 GoogleAppStoreDataSet.csv (Dataset which was shortened)
+EDA of Google Play Store Apps.ipynb
+
+EDA:
+
+- Descriptive Stats
+- Univariate Analysis
+- Bivariate Analysis
