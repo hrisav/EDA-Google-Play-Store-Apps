@@ -9,7 +9,7 @@ EDA of Google Play Store Apps.ipynb
 
 Objective:
 -
-The objective of the project was to analyze the data and provide insights, which would help the android developers to understand the factors behind the ratings of any app.
+The objective of the project was to analyze the dataset (on Android App details) and provide insights, which would help the android developers to understand the factors behind the ratings of any app.
 
 In-scope Features:
 -
